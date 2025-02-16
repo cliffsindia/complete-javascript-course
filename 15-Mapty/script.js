@@ -321,5 +321,7 @@ class App {
     location.reload();
   }
 }
+  
+const app = new App()
 
-const app = new App();
+//  no  more  code  to  check  
